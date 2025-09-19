@@ -267,12 +267,3 @@ Adjust REST endpoint and payload as needed. You can also import via Splunk web U
 
 ## Security and ethics reminder
 Run this lab only on systems you own or where you have explicit written authorization. Do not perform scans or brute forcing on third-party systems. Treat all data responsibly. If you publish findings containing external IPs, follow responsible disclosure procedures.
-
----
-
-If you want, I will:
-- Generate `splunk/BruteSentinel_dashboard.json` export for you to import directly into Splunk.
-- Create the `scripts/ssh-brute.sh` and `scripts/capture-ssh.sh` files in the repo and make them downloadable.
-- Draft `DEMO.md` with a transcript template for your recorded walkthrough.
-
-Tell me which to produce next and I will create the files for download.
